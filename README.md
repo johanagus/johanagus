@@ -43,7 +43,7 @@
   <a href="https://github.com/johanagus/prab">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johanagus&repo=prab&theme=vue" />
   </a>
-</div>
+</div> 
 
 
 </br>
