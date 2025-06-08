@@ -1,12 +1,12 @@
   <h1><p align="center">Hello, I'm Johan Agus <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></p></h1><p></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"></p>
-<p align="center"> Backend Developer | Go , Javascript & PHP Specialist | Database Optimizer</p>
+<p align="center"> <b>Backend Developer | Go , Javascript & PHP Specialist | Database Optimizer</b></p>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<p><a href="https://www.linkedin.com/in/lauro_brant-1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="image"></a>
-<a href="https://www.instagram.com/brantlauro/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="image"></a>
-<a href="mailto:produtor.brantlauro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="image"></a>
+<p><a href="https://www.linkedin.com/in/johan-agus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="image"></a>
+<a href="https://www.instagram.com/johan_agus96/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="image"></a>
+<a href="mailto:johanagus.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="image"></a>
 <a href="https://wa.me/6281280014887"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="image"></a></p>
 </div>
 
