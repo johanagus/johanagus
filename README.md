@@ -40,6 +40,9 @@
   <a href="https://github.com/johanagus/simple-erp">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johanagus&repo=simple-erp&theme=vue" />
   </a>
+   <a href="https://github.com/johanagus/prab">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johanagus&repo=prab&theme=vue" />
+  </a>
  
 </div> 
 
